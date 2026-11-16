@@ -10,9 +10,9 @@ Houston, TX
 
 </div>
 
-Enterprise technologist with 5+ years of experience across data warehousing, BI, software engineering, and applied machine learning. I work in Snowflake every day, use AI to tighten data validation and engineering workflows, and build applications in C#, Flutter, and Python.
+I have 5+ years of enterprise technology experience across data warehousing, BI, software engineering, and applied machine learning. I work in Snowflake every day, apply AI to data validation and engineering workflows, and build applications in C#, Flutter, and Python.
 
-Currently BI – Data Warehouse Developer at NOV/Auredia.
+Currently a BI – Data Warehouse Developer at NOV/Auredia.
 
 ## What I work on
 
@@ -76,3 +76,64 @@ Personal and academic repositories. Enterprise systems at NOV/Auredia stay in pr
 - [rag-eval-assistant](https://github.com/sydneyani/rag-eval-assistant)
 - [ml-forecasting-service](https://github.com/sydneyani/ml-forecasting-service)
 - [dotnet-flutter-app](https://github.com/sydneyani/dotnet-flutter-app) — C#/.NET API and Flutter mobile app
+
+## Experience
+
+### BI – Data Warehouse Developer · NOV/Auredia
+*Apr 2026 – Present*
+
+- Work in Snowflake daily, using Snowflake’s built-in AI for data validation.
+- AI enablement lead for the group, running training sessions.
+- Built a Python Flask app with Snowflake SSO and the Snowflake API for ETL readiness checks, delta-variance analysis, and cross-column comparisons.
+- LLM-assisted validation workflows that flag schema mismatches and variance spikes across multiple ERP systems.
+- AI automation in GitHub Actions workflows, and support for ERP consolidation into OneBI.
+
+### Data Scientist / Software Engineer · NOV/Auredia
+*Oct 2024 – Mar 2026*
+
+- Primary languages were C# and Flutter, with Python and SQL for analytics.
+- Built ML pipelines with pandas, NumPy, scikit-learn, and XGBoost for forecasting and classification.
+- Built REST API automation services.
+- Used Azure heavily and Databricks occasionally.
+
+### HR Technology Project Specialist (SQL Engineer) · NOV
+*Aug 2021 – Sep 2024*
+
+- Automated SQL internal auditing and reporting systems, reducing manual effort by ~50%.
+
+## Education
+
+**M.S. Engineering Data Science & AI**, University of Houston — GPA 3.8, Dec 2025
+
+**B.S. Computer Information Systems**, University of Houston
+
+Coursework: [university-coursework](https://github.com/sydneyani/university-coursework)
+
+## Certifications
+
+- NVIDIA DLI — Building RAG Agents with LLMs (2025)
+- NVIDIA DLI — NLP Fundamentals (2025)
+
+## GitHub
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sydneyani&show_icons=true&hide_border=true&include_all_commits=true&theme=dark" />
+  <img alt="GitHub stats for Sydney Ani" height="165" src="https://github-readme-stats.vercel.app/api?username=sydneyani&show_icons=true&hide_border=true&include_all_commits=true&theme=default" />
+</picture>
+&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sydneyani&layout=compact&hide_border=true&langs_count=8&theme=dark" />
+  <img alt="Top languages for Sydney Ani" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sydneyani&layout=compact&hide_border=true&langs_count=8&theme=default" />
+</picture>
+
+</div>
+
+The cards above reflect public GitHub activity. Warehouse and application work at NOV/Auredia is in private company repositories.
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sydney_Ani-0A66C2?style=flat-square)](https://www.linkedin.com/in/sydney-ani-1561471b8)
+[![Email](https://img.shields.io/badge/Email-580091sydney%40gmail.com-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:580091sydney@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sydneyani-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sydneyani)
